@@ -1,0 +1,1531 @@
+[
+	{
+		"input": {
+			"walls": [
+				90,
+				90
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 65,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 23,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 90,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "W",
+				"subType": 1,
+				"wall": 0,
+				"width": 30,
+				"pos": 0
+			},
+			{
+				"type": "C",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 30
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				114,
+				114
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 83,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 23,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 114,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "W",
+				"subType": 1,
+				"wall": 0,
+				"width": 30,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 24,
+				"pos": 30
+			},
+			{
+				"type": "C",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 54
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				135,
+				135
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 102,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 23,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 135,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 15,
+				"pos": 60
+			},
+			{
+				"type": "C",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 75
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				165,
+				165
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 125,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 23,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 165,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 45,
+				"pos": 60
+			},
+			{
+				"type": "C",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 105
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				195,
+				195
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 165,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 89,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 195,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 60
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 15,
+				"pos": 120
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 135
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				205,
+				205
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 172,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 89,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 205,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 1,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 60
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 25,
+				"pos": 120
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 145
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				224,
+				224
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 193,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 89,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 224,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 60
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 44,
+				"pos": 120
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 164
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				247,
+				247
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 213,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 89,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 247,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 60
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 67,
+				"pos": 120
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 187
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				270,
+				270
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 235,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 128,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 270,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 30,
+				"pos": 60
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 90
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 150
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 210
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				296,
+				296
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 262,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 142,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 296,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 56,
+				"pos": 60
+			},
+			{
+				"type": "W",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 116
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 176
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 236
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				310,
+				310
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 278,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 142,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 310,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 3,
+				"wall": 0,
+				"width": 90,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 90
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 40,
+				"pos": 210
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 250
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				331,
+				331
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 297,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 142,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 331,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 3,
+				"wall": 0,
+				"width": 90,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 90
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 61,
+				"pos": 210
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 271
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				359,
+				359
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 324,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 142,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 359,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 3,
+				"wall": 0,
+				"width": 90,
+				"pos": 0
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 90
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 89,
+				"pos": 210
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 299
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				381,
+				381
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 350,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 186,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 381,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 3,
+				"wall": 0,
+				"width": 90,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 51,
+				"pos": 90
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 141
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 261
+			},
+			{
+				"type": "C",
+				"subType": 2,
+				"wall": 0,
+				"width": 60,
+				"pos": 321
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				443,
+				443
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 387,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 228,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 443,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 3,
+				"wall": 0,
+				"width": 90,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 53,
+				"pos": 90
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 143
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 263
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 323
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				473,
+				473
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 386,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 228,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 473,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 4,
+				"wall": 0,
+				"width": 120,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 53,
+				"pos": 120
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 173
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 293
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 353
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				498,
+				498
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 432,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 228,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 498,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 4,
+				"wall": 0,
+				"width": 120,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 120
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 180
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 78,
+				"pos": 300
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 378
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				506,
+				506
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 432,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 256,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 506,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 4,
+				"wall": 0,
+				"width": 120,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 120
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 180
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 86,
+				"pos": 300
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 386
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				535,
+				535
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 464,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 257,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 535,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 4,
+				"wall": 0,
+				"width": 120,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 120
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 180
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 300
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 55,
+				"pos": 360
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 415
+			}
+		]
+	},
+	{
+		"input": {
+			"walls": [
+				574,
+				574
+			],
+			"realWalls": [
+				true,
+				false
+			],
+			"utils": [
+				{
+					"Pos": 508,
+					"Wall": 0,
+					"Tag": "ventilation",
+					"Id": 0
+				},
+				{
+					"Pos": 257,
+					"Wall": 0,
+					"Tag": "canalization",
+					"Id": 1
+				},
+				{
+					"Pos": -1,
+					"Wall": -1,
+					"Tag": "window",
+					"Id": 2
+				},
+				{
+					"Pos": 0,
+					"Wall": 0,
+					"Tag": "entry",
+					"Id": 3
+				},
+				{
+					"Pos": 574,
+					"Wall": 0,
+					"Tag": "exit",
+					"Id": 4
+				}
+			]
+		},
+		"output": [
+			{
+				"type": "S",
+				"subType": 4,
+				"wall": 0,
+				"width": 120,
+				"pos": 0
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 120
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 34,
+				"pos": 180
+			},
+			{
+				"type": "W",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 214
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 334
+			},
+			{
+				"type": "P",
+				"subType": 0,
+				"wall": 0,
+				"width": 60,
+				"pos": 394
+			},
+			{
+				"type": "C",
+				"subType": 3,
+				"wall": 0,
+				"width": 120,
+				"pos": 454
+			}
+		]
+	}
+]
